@@ -62,6 +62,5 @@ public class Main {
         staff = 94;
         hoursStaff = hours / staff;
         System.out.println("Если в компании работает " + staff + " человек, то всего " + hoursStaff + " часов работы может быть поделено между сотрудниками");
-
     }
 }
